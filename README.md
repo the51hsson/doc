@@ -15,7 +15,7 @@
 - [주석](#주석)
 - [공백](#공백)
 - [**변수**](https://www.notion.so/Javascript-coding-guide-2435f8756cf64c5483a62a73c7afc6a9)
-- [호이스팅(Hoisting)](https://www.notion.so/Javascript-coding-guide-2435f8756cf64c5483a62a73c7afc6a9)
+- [호이스팅(Hoisting)](#호이스팅)
 - [데이터형 확인(Types)](https://www.notion.so/Javascript-coding-guide-2435f8756cf64c5483a62a73c7afc6a9)
 - [Objects](https://www.notion.so/Javascript-coding-guide-2435f8756cf64c5483a62a73c7afc6a9)
 - [Arrays](https://www.notion.so/Javascript-coding-guide-2435f8756cf64c5483a62a73c7afc6a9)
