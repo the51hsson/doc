@@ -1,12 +1,3 @@
----
-layout: post
-title: "THE-51.com UID 임시 문서"
-subtitle: "doc"
-date: 2021-12-09 14:00
-background: 
-tag: [doc,md]
----
-
 # UID 개발문서
 
 # 개요
