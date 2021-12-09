@@ -1,6 +1,3 @@
-# doc
-THE-51 UID 임시 저장소
-
 # Javascript coding guide
 
 # 개요
@@ -11,7 +8,7 @@ THE-51 UID 임시 저장소
 
 # **목차**
 
-- [들여쓰기](# **들여쓰기**)
+- [들여쓰기](https://www.notion.so/Javascript-coding-guide-2435f8756cf64c5483a62a73c7afc6a9)
 - [문장의 종료](https://www.notion.so/Javascript-coding-guide-2435f8756cf64c5483a62a73c7afc6a9)
 - [명명 규칙](https://www.notion.so/Javascript-coding-guide-2435f8756cf64c5483a62a73c7afc6a9)
 - [전역 변수](https://www.notion.so/Javascript-coding-guide-2435f8756cf64c5483a62a73c7afc6a9)
