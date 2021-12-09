@@ -9,11 +9,11 @@
 # **목차**
 
 - [들여쓰기](#들여쓰기)
-- [문장의 종료](https://www.notion.so/Javascript-coding-guide-2435f8756cf64c5483a62a73c7afc6a9)
-- [명명 규칙](https://www.notion.so/Javascript-coding-guide-2435f8756cf64c5483a62a73c7afc6a9)
-- [전역 변수](https://www.notion.so/Javascript-coding-guide-2435f8756cf64c5483a62a73c7afc6a9)
-- [주석](https://www.notion.so/Javascript-coding-guide-2435f8756cf64c5483a62a73c7afc6a9)
-- [공백](https://www.notion.so/Javascript-coding-guide-2435f8756cf64c5483a62a73c7afc6a9)
+- [문장의 종료](#문장의 종료)
+- [명명 규칙](#명명 규칙)
+- [전역 변수](#전역 변수)
+- [주석](#주석)
+- [공백](#공백)
 - [**변수**](https://www.notion.so/Javascript-coding-guide-2435f8756cf64c5483a62a73c7afc6a9)
 - [호이스팅(Hoisting)](https://www.notion.so/Javascript-coding-guide-2435f8756cf64c5483a62a73c7afc6a9)
 - [데이터형 확인(Types)](https://www.notion.so/Javascript-coding-guide-2435f8756cf64c5483a62a73c7afc6a9)
